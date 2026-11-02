@@ -1,4 +1,4 @@
-// Bölüm 3 Ödevi - basit çözüm
+
 function kup(sayi) {
   return sayi * sayi * sayi;
 }
